@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#box {
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    margin-top: 10px;
+}
